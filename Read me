@@ -2,3 +2,13 @@ Future Club Immersion - Level 11: Data Ops & Data Science.
 [Watson Studio Essentials.](https://learn.ibm.com/course/view.php?id=4303)
 
 Enable GitHub Integration to Publish Notebooks to GitHub
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
